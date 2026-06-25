@@ -18,6 +18,8 @@ entries:
     entries:
       - title: about
         url: about.html
+      - title: management guide
+        url: blog-management.html
       - title: archive
         url: archive.html
 
