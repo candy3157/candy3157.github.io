@@ -1,0 +1,27 @@
+title: candy3157 blog
+author: candy3157
+email: tkwk9731@gmail.com
+url: "https://candy3157.github.io"
+baseurl: ""
+description: >
+  Development notes, project logs, and learning records.
+
+permalink: /:slug.html
+favicon: "favicon.svg"
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: true
+  lowercase_titles: false
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
