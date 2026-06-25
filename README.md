@@ -13,7 +13,7 @@ Main files:
 - `_posts/`: dated blog posts
 - `archive.md`: full post archive
 - `about.md`: static profile page
-- `docs/blog-management-methodology.md`: management guide for this blog
+- `docs/blog-management-methodology.md`: 블로그 관리 방법론 문서
 
 Local preview, if Ruby and Bundler are installed:
 

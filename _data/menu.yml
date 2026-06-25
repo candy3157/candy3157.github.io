@@ -18,7 +18,7 @@ entries:
     entries:
       - title: about
         url: about.html
-      - title: management guide
+      - title: 관리 방법론
         url: blog-management.html
       - title: archive
         url: archive.html
