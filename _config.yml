@@ -1,10 +1,10 @@
-title: candy3157 blog
+title: 곽재혁의 블로그
 author: candy3157
 email: tkwk9731@gmail.com
 url: "https://candy3157.github.io"
 baseurl: ""
 description: >
-  Development notes, project logs, and learning records.
+  정보보안학과에서 개발하는 저의 발자취를 기록합니다.
 
 permalink: /:slug.html
 favicon: "favicon.svg"
@@ -12,8 +12,8 @@ favicon: "favicon.svg"
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto"
-  back_home_text: ".."
+  appearance: "light"
+  back_home_text: "cd ~"
   date_format: "%Y-%m-%d"
   show_description: true
   lowercase_titles: false
