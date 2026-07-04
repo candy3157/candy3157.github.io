@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "sync:notion": "node scripts/sync-notion-posts.mjs"
+  },
+  "dependencies": {
+    "@notionhq/client": "^5.22.0",
+    "js-yaml": "^4.1.0"
+  }
+}
