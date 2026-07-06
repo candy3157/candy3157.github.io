@@ -1,7 +1,16 @@
 ---
 ---
 
-@import "no-style-please";
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
 
 @font-face {
   font-family: "NanumSquare";
@@ -44,13 +53,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.site-title {
   font-family: "NanumSquare", "Noto Sans KR", system-ui, sans-serif;
-}
-
-code,
-pre,
-kbd,
-samp {
-  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
 }

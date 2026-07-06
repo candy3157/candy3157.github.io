@@ -1,8 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about.html
-sitemap: false
+icon: fas fa-info-circle
+order: 4
 ---
 
 # 안녕하세요, 곽재혁입니다.
@@ -19,6 +17,7 @@ sitemap: false
 ## Contact
 
 - Email: [tkwk9731@gmail.com](mailto:tkwk9731@gmail.com)
+- GitHub: [candy3157](https://github.com/candy3157)
 
 ## Experience
 

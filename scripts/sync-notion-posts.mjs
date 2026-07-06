@@ -79,7 +79,7 @@ function getPageMetadata(page) {
   const date = (dateRaw || page.created_time).slice(0, 10);
   const slug = propText(props, "Slug") || slugify(title);
   const categories = propMulti(props, "Categories");
-  const tags = propMulti(props, "Tags");
+  const tags = propMulti(props, "Tags").map((tag) => tag.toLowerCase());
   const postKey = `${date}-${slug}`;
   const filePath = path.join("_posts", `${date}-${slug}.md`);
   const imageDir = path.join(postImageRoot, postKey);

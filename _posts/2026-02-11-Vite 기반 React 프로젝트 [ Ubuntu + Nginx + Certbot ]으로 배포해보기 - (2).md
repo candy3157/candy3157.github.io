@@ -13,7 +13,7 @@ tags:
   - dev
 ---
 
-[vite-기반-react-프로젝트-ubuntu-nginx-certbot-으로-배포해보기-1-도메인-공유기-서버-세팅](http://candy3157.github.io/vite-기반-react-프로젝트-ubuntu-nginx-certbot-으로-배포해보기-1-도메인-공유기-서버-세팅.html "이전 편")
+[vite-기반-react-프로젝트-ubuntu-nginx-certbot-으로-배포해보기-1-도메인-공유기-서버-세팅](https://candy3157.github.io/vite-기반-react-프로젝트-ubuntu-nginx-certbot-으로-배포해보기-1-도메인-공유기-서버-세팅.html "이전 편")
 
 위 글에서 이어지는 내용입니다.
 

@@ -51,7 +51,7 @@ Ubuntu 서버는 miniPC에 설치되어 있고, 원룸이기 때문에 desktop�
 
 ![ddns]({{ '/assets/images/posts/2026-02-11-Vite 기반 React 프로젝트 [ Ubuntu + Nginx + Certbot ]으로 배포해보기 - (1) 도메인+공유기+서버 세팅/dns.png' | relative_url }})
 
-위와 같이 DNS설정에서 호스트를 @와 www를 등록해주면 [candy3157.cloud,](http://candy3157.cloud.net,) [www.candy3157.cloud](http://www.candy3157.cloud.net) 처럼 "www"가 붙든 안붙든 나의 도메인으로 들어올 수 있게끔 등록하는 절차이다.
+위와 같이 DNS설정에서 호스트를 @와 www를 등록해주면 [candy3157.cloud](https://candy3157.cloud), [www.candy3157.cloud](https://www.candy3157.cloud) 처럼 "www"가 붙든 안붙든 나의 도메인으로 들어올 수 있게끔 등록하는 절차이다.
 
 이렇게 해주면 가비아에서 구매한 candy3157.cloud 에다가 공유기의 DDNS인 ~~.ddns.net을 연결한것이다
 

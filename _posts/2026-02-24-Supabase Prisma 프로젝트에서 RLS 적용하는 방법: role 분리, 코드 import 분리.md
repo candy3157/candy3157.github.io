@@ -7,7 +7,7 @@ categories:
 tags:
   - security
   - dev
-  - DB
+  - db
   - supabase
 ---
 
